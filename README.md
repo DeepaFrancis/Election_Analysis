@@ -29,8 +29,23 @@ The analysis of Election shows that:
 -Winner of the Election was Diana DeGette, who received 73.8% of the votes and 272,893 number of votes.
 
 ## Challenge Overview
+The election commission has requested some additional data to complete the audit.
+  - The voter turnout for each county
+  - The percentage of votes from each county out of the total count
+  - The county with the highest turnout
+  
+  ![image](https://user-images.githubusercontent.com/89530570/137610454-ab258d87-2f47-4487-bcee-bfc97ebaf7fd.png)
+ 
 
 ## Challenge Summary
+The Election commissions requested additional data to complete the audit is obtained.
+County Votes:
+Jefferson:10.5% (38,855)
+Denver:82.8% (306,055)
+Arapahoe:6.7% (24,801)
 
+Largest County  Turnout:Denver
 
- - 
+This script can be modified for any election. Core data for the archive are state, county and district level election returns for all recent state and federal elections in the United States. The code can be modified to calculate the state or district level election returns. If we have the CSV files for State or district level election results, the code can be modified for finding those results.
+
+Ref: https://guides.library.harvard.edu/c.php?g=310717&p=2072692
